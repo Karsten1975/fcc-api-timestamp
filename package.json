@@ -4,7 +4,7 @@
   "description": "my solution to freecodecamps api backend project",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "author": "kw1975",
